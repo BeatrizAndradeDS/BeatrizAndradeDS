@@ -50,21 +50,24 @@ Agora juntei essa bagagem de negócio com o poder dos algoritmos modernos. O res
 
 ## 📊 Projetos em destaque
 
-<div align="center">
+### 🧠 [Rede Neural Artificial do Zero](https://github.com/biasandrade/rede-neural-do-zero-classificacao-binaria)
+Implementação manual de uma rede neural usando apenas NumPy para classificação binária. Forward/backward propagation, gradiente descendente e função sigmoid construídos do zero - sem frameworks de ML.
 
-[![Sistema de Recomendação](https://github-readme-stats.vercel.app/api/pin/?username=biasandrade&repo=sistema-recomendacao-filmes&theme=tokyonight)](https://github.com/biasandrade/sistema-recomendacao-filmes)
+**Stack:** `Python` `NumPy` `Neural Networks` `Backpropagation` `Matemática Aplicada`
 
-</div>
+**Aplicações:** Detecção de fraude, previsão de aprovação, propensão a compra, decisões médicas
 
-### 🎬 Sistema de Recomendação de Filmes
+---
+
+### 🎬 [Sistema de Recomendação de Filmes](https://github.com/biasandrade/sistema-recomendacao-filmes)
 Sistema inteligente que recomenda filmes similares usando Machine Learning, vetorização de texto e cosine similarity. Processamento de 4.800+ filmes com NLP.
 
 **Stack:** `Python` `scikit-learn` `Pandas` `NLTK` `NLP` `Machine Learning`
 
-**Destaques:**
-- ✅ Processamento de Linguagem Natural com Stemming
-- ✅ Vetorização com CountVectorizer (5.000 features)
-- ✅ Cálculo de similaridade com Cosine Distance
+---
+
+🚧 *Mais projetos em breve!*  
+Estou trazendo outros projetos para cá. Enquanto isso, me chama no LinkedIn pra trocar uma ideia!
 
 ---
 
