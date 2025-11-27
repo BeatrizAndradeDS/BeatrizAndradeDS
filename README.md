@@ -27,7 +27,7 @@ Em 2024, decidi elevar o jogo: mergulhei de cabeça em **Machine Learning, Pytho
 `XGBoost` `LightGBM` `TensorFlow` `PyTorch` `SHAP` `LIME`
 
 **Deploy & Cloud**  
-`Docker` `Flask/FastAPI` `AWS (S3, SageMaker, EC2)`
+`Docker` `AWS (S3, SageMaker, EC2)`
 
 **Visualização & BI**  
 `Matplotlib` `Seaborn` `Plotly` `Power BI`
