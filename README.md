@@ -50,6 +50,17 @@ Agora juntei essa bagagem de negócio com o poder dos algoritmos modernos. O res
 
 ## 📊 Projetos em destaque
 
+📊 [Day Trade Analytics com IA em AWS](https://github.com/biasandrade/AI-Powered-Day-Trade-Real-Time-Analytics-c-Groq-OpenIA-AWS.git)
+Sistema inteligente que reduz análise de trading de 15 minutos para 5 segundos usando:
+
+Multi-Agent AI (3 agentes especializados)
+Análise técnica automatizada
+Deploy AWS escalável
+
+**Stack:** `Python`, `Streamlit`, `Groq`, `YFinance`, `Plotly`, `AWS`, `EC2`
+
+---
+
 ### 🧠 [Rede Neural Artificial do Zero](https://github.com/biasandrade/rede-neural-do-zero-classificacao-binaria)
 Implementação manual de uma rede neural usando apenas NumPy para classificação binária. Forward/backward propagation, gradiente descendente e função sigmoid construídos do zero - sem frameworks de ML.
 
