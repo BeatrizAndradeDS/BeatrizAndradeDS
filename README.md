@@ -2,9 +2,9 @@
 
 ### Cientista de Dados | 18 anos em análise de dados para decisões de negócio
 
-Eu sempre fui a pessoa que mexe com dados, mesmo antes de virar "hype". Passei quase duas décadas mergulhada em números, seja planejando produção, negociando no mercado financeiro ou reestruturando processos em empresas. Sempre fui movida por uma pergunta: **"o que esses dados estão tentando me dizer?"**
+Eu sempre fui a pessoa que mexe com dados, mesmo antes de virar "hype". Passei quase duas décadas mergulhada em números, seja planejando produção, negociando no mercado financeiro ou reestruturando processos em empresas. Sempre fui movida por uma pergunta: **"o que eu posso tirar desses dados?"**
 
-Em 2024, decidi elevar o jogo: mergulhei de cabeça em **Machine Learning, Python e técnicas avançadas de estatística**. Não larguei o mundo real pra fazer curso, eu fiz o contrário: trouxe a ciência de dados pro meu dia a dia para resolver problemas de verdade.
+Em 2024, decidi elevar o jogo: mergulhei de cabeça em **Machine Learning, Python e técnicas avançadas de estatística**. Trouxe a ciência de dados pro meu dia a dia para resolver problemas de verdade.
 
 ---
 
@@ -66,7 +66,7 @@ Implementação manual de uma rede neural usando apenas NumPy para classificaç�
 
 **Stack:** `Python` `NumPy` `Neural Networks` `Backpropagation` `Matemática Aplicada`
 
-**Aplicações:** Detecção de fraude, previsão de aprovação, propensão a compra, decisões médicas
+**Aplicações:** Detecção de fraude, previsão de aprovação, propensão a compra, decisões médicas...
 
 ---
 
@@ -75,6 +75,7 @@ Sistema inteligente que recomenda filmes similares usando Machine Learning, veto
 
 **Stack:** `Python` `scikit-learn` `Pandas` `NLTK` `NLP` `Machine Learning`
 
+**Aplicações:** E-commerce, redes sociais, serviços financeiros...
 ---
 
 🚧 *Mais projetos em breve!*  
