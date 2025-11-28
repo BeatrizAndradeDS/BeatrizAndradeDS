@@ -76,6 +76,7 @@ Sistema inteligente que recomenda filmes similares usando Machine Learning, veto
 **Stack:** `Python` `scikit-learn` `Pandas` `NLTK` `NLP` `Machine Learning`
 
 **Aplicações:** E-commerce, redes sociais, serviços financeiros...
+
 ---
 
 🚧 *Mais projetos em breve!*  
