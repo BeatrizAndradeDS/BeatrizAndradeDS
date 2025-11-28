@@ -1,6 +1,6 @@
 # Olá, eu sou a Bia! 👋
 
-### Cientista de Dados | 18 anos em análise de dados para decisões de negócio
+Cientista de Dados | 18 anos com dados + ML desde 2024 | Ex-Trader • Consultora
 
 Eu sempre fui a pessoa que mexe com dados, mesmo antes de virar "hype". Passei quase duas décadas mergulhada em números, seja planejando produção, negociando no mercado financeiro ou reestruturando processos em empresas. Sempre fui movida por uma pergunta: **"o que eu posso tirar desses dados?"**
 
