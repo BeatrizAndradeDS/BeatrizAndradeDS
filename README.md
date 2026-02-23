@@ -1,6 +1,6 @@
 # Olá, eu sou a Bia! 👋
 
-Cientista de Dados | 18 anos com dados + ML desde 2024 | Ex-Trader • Consultora
+18 anos com dados + ML desde 2024 | Analista de Dados • Cientista de dados
 
 Eu sempre fui a pessoa que mexe com dados, mesmo antes de virar "hype". Passei quase duas décadas mergulhada em números, seja planejando produção, negociando no mercado financeiro ou reestruturando processos em empresas. Sempre fui movida por uma pergunta: **"o que eu posso tirar desses dados?"**
 
@@ -10,10 +10,10 @@ Em 2024, decidi elevar o jogo: mergulhei de cabeça em **Machine Learning, Pytho
 
 ## 🎯 O que eu faço de melhor
 
-- **Traduzo business em modelos**: entendo o problema antes de abrir o Jupyter
-- **Aplico Machine Learning**: regressões, Random Forest, XGBoost, redes neurais (sempre com foco em resultado)
-- **Faço otimização e previsões**: do planejamento de produção à análise de séries temporais
+- **Traduzo business em modelos**: entendo o problema antes de qualquer coisa
 - **Feature Engineering**: sei que o modelo é tão bom quanto os dados que você coloca nele
+- **Faço otimização e previsões**: do planejamento de produção à análise de séries temporais
+- **Aplico Machine Learning**: regressões, Random Forest, XGBoost, redes neurais (sempre com foco em resultado)
 - **Comunico de forma clara**: demonstro aos stakeholders aplicações dos modelos
 
 ---
@@ -39,7 +39,7 @@ Em 2024, decidi elevar o jogo: mergulhei de cabeça em **Machine Learning, Pytho
 
 ## 💼 De onde eu venho
 
-Antes de ser cientista de dados, eu era a pessoa que:
+Antes de ser analista/cientista de dados, eu:
 - **Otimizava estoques** com base em padrões de consumo (e sim, isso é ML antes do ML)
 - **Negociava no mercado financeiro**, onde decisão errada custa caro e análise é tudo
 - **Reestruturava processos** em empresas usando dados operacionais para encontrar gargalos
