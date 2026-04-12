@@ -1,33 +1,24 @@
 # Olá, eu sou a Bia! 👋
 
-Analista de Dados | 18 anos com dados + ML desde 2024
+Analista de Dados | 18 anos com dados
 
-Eu sempre fui a pessoa que mexe com dados, mesmo antes de virar "hype". Passei quase duas décadas mergulhada em números, seja planejando produção, negociando no mercado financeiro ou reestruturando processos em empresas. Sempre fui movida por uma pergunta: **"o que eu posso tirar desses dados?"**
+Sempre mexi com dados, mesmo antes de virar "hype". Passei quase duas décadas usando números para tomar decisões, seja planejando produção, negociando no mercado financeiro ou reestruturando processos em empresas. No final, sempre usei os dados para **resolver os problemas de negócio**.
 
-Em 2024, decidi elevar o jogo: mergulhei de cabeça em **Machine Learning, Python e técnicas avançadas de estatística**. Trouxe a ciência de dados pro meu dia a dia para resolver problemas de verdade.
-
----
-
-## 🎯 O que eu faço de melhor
-
-- **Traduzo business em modelos**: entendo o problema antes de qualquer coisa
-- **Feature Engineering**: sei que o modelo é tão bom quanto os dados que você coloca nele
-- **Faço otimização e previsões**: do planejamento de produção à análise de séries temporais
-- **Aplico Machine Learning**: regressões, Random Forest, XGBoost, redes neurais (sempre com foco em resultado)
-- **Comunico de forma clara**: demonstro aos stakeholders aplicações dos modelos
+Em 2024 decidi dar um up-grade: mergulhei de cabeça em **Machine Learning, Python e técnicas avançadas de estatística**. Trouxe a ciência de dados pro meu dia a dia para `resolver problemas reais`.
 
 ---
 
-## 🛠️ Toolkit
+<span style="color:green">## O que eu entrego</span>
 
-**Linguagens & Core**  
-`Python` `SQL` `Pandas` `NumPy` `Scikit-learn`
+- **Traduzo business em modelos**: entendo o problema antes de qualquer coisa;
+- **Feature Engineering**: sei que o modelo é tão bom quanto os dados que você coloca nele;
+- **Faço otimização e previsões**: do planejamento à análise de séries temporais;
+- **Aplicação de Machine Learning**: regressões, Random Forest, XGBoost, redes neurais (sempre com foco em resultado);
+- **Comunico de forma clara**: demonstro aos stakeholders aplicações dos modelos.
 
-**Machine Learning & Deep Learning**  
-`XGBoost` `LightGBM` `TensorFlow` `PyTorch` `SHAP` `LIME`
+---
 
-**Deploy & Cloud**  
-`Docker` `AWS (S3, SageMaker, EC2)`
+## Toolkit
 
 **Visualização & BI**  
 `Matplotlib` `Seaborn` `Plotly` `Power BI`
@@ -35,22 +26,34 @@ Em 2024, decidi elevar o jogo: mergulhei de cabeça em **Machine Learning, Pytho
 **Boas práticas**  
 `Feature Engineering` `Cross-validation` `Hyperparameter Tuning` `MLOps (básico)`
 
----
+**Linguagens & Core**  
+`Python` `SQL` `Pandas` `NumPy` `Scikit-learn`
 
-## 💼 De onde eu venho
+**Deploy & Cloud**  
+`Docker` `AWS (S3, SageMaker, EC2)`
 
-Antes de ser analista/cientista de dados, eu:
-- **Otimizava estoques** com base em padrões de consumo (e sim, isso é ML antes do ML)
-- **Negociava no mercado financeiro**, onde decisão errada custa caro e análise é tudo
-- **Reestruturava processos** em empresas usando dados operacionais para encontrar gargalos
-
-Agora juntei essa bagagem de negócio com o poder dos algoritmos modernos. O resultado? Alguém que não só sabe rodar um modelo, mas entende **por que** e **para quê** ele existe.
+**Machine Learning & Deep Learning**  
+`XGBoost` `LightGBM` `TensorFlow` `PyTorch` `SHAP` `LIME`
 
 ---
 
-## 📊 Projetos em destaque
+## De onde eu venho
 
-### 📊 [Day Trade Analytics com IA em AWS](https://github.com/biasandrade/AI-Powered-Day-Trade-Real-Time-Analytics-c-Groq-OpenIA-AWS.git)
+Desde o início da minha carreira, tive experiências e oportunidades para trabalhar:
+- **Otimizando estoques** com base em padrões de consumo (séries temporais)
+- **Negociando no mercado financeiro**, onde decisão errada custa caro e análise é tudo
+- **Reestruturando processos** em empresas usando dados operacionais para encontrar gargalos
+
+Agora juntei toda essa bagagem de negócio com o poder dos algoritmos modernos. 
+
+---
+
+## Projetos em destaque
+
+### [Dashboard acompanhamento de pedidos]
+
+
+### [Day Trade Analytics com IA em AWS](https://github.com/BeatrizAndradeDS/AI-Powered-Day-Trade-Real-Time-Analytics-c-Groq-OpenIA-AWS.git)
 Sistema inteligente que reduz análise de trading de 15 minutos para 5 segundos usando:
 
 Multi-Agent AI (3 agentes especializados)
@@ -61,7 +64,7 @@ Deploy AWS escalável
 
 ---
 
-### 🧠 [Rede Neural Artificial do Zero](https://github.com/biasandrade/rede-neural-do-zero-classificacao-binaria)
+### [Rede Neural Artificial do Zero](https://github.com/BeatrizAndradeDS/rede-neural-do-zero-classificacao-binaria)
 Implementação manual de uma rede neural usando apenas NumPy para classificação binária. Forward/backward propagation, gradiente descendente e função sigmoid construídos do zero - sem frameworks de ML.
 
 **Stack:** `Python` `NumPy` `Neural Networks` `Backpropagation` `Matemática Aplicada`
@@ -70,7 +73,7 @@ Aplicações: Detecção de fraude, previsão de aprovação, propensão a compr
 
 ---
 
-### 🎬 [Sistema de Recomendação de Filmes](https://github.com/biasandrade/sistema-recomendacao-filmes)
+### [Sistema de Recomendação de Filmes](https://github.com/BeatrizAndradeDS/sistema-recomendacao-filmes)
 Sistema inteligente que recomenda filmes similares usando Machine Learning, vetorização de texto e cosine similarity. Processamento de 4.800+ filmes com NLP.
 
 **Stack:** `Python` `scikit-learn` `Pandas` `NLTK` `NLP` `Machine Learning`
@@ -79,19 +82,14 @@ Sistema inteligente que recomenda filmes similares usando Machine Learning, veto
 
 ---
 
-🚧 *Mais projetos em breve!*  
-Estou trazendo outros projetos para cá. Enquanto isso, me chama no LinkedIn pra trocar uma ideia!
+### [Tem mais no meu Portifólio](https://beatrizandradeds.github.io/portfolio/)
 
 ---
 
-## 📫 Vamos conversar?
+## Pra falar comigo:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/andrade-beatriz/)
 - 📧 biasandrade@gmail.com
 - 📱 11-99539-1817
 
-Se você busca alguém que **une visão de negócio, mão na massa com código e curiosidade infinita**, temos muito a conversar.
-
----
-
-*"Dados sem contexto são só números. Contexto sem dados é só achismo. Eu trabalho onde os dois se encontram."*
+*"Dados sem contexto são só números".*
