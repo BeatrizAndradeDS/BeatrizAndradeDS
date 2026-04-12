@@ -8,7 +8,9 @@ Em 2024 decidi dar um up-grade: mergulhei de cabeça em **Machine Learning, Pyth
 
 ---
 
-<span style="color:green">## O que eu entrego</span>
+<span style="color:green"> 
+## O que eu entrego
+</span>
 
 - **Traduzo business em modelos**: entendo o problema antes de qualquer coisa;
 - **Feature Engineering**: sei que o modelo é tão bom quanto os dados que você coloca nele;
