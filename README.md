@@ -105,6 +105,5 @@ Sistema inteligente que recomenda filmes similares usando Machine Learning, veto
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/andrade-beatriz/)
 - 📧 biasandrade@gmail.com
-- 📱 11-99539-1817
 
 **Dados sem contexto são só números.**
