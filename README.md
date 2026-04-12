@@ -4,13 +4,11 @@ Analista de Dados | 18 anos com dados
 
 Sempre mexi com dados, mesmo antes de virar "hype". Passei quase duas décadas usando números para tomar decisões, seja planejando produção, negociando no mercado financeiro ou reestruturando processos em empresas. No final, sempre usei os dados para **resolver os problemas de negócio**.
 
-Em 2024 decidi dar um up-grade: mergulhei de cabeça em **Machine Learning, Python e técnicas avançadas de estatística**. Trouxe a ciência de dados pro meu dia a dia para `resolver problemas reais`.
+Em 2024 decidi dar um up-grade: mergulhei de cabeça em **Machine Learning, Python e técnicas avançadas de estatística**. Trouxe tudo isso pro meu dia a dia para `resolver problemas reais`.
 
 ---
 
-<span style="color:green"> 
 ## O que eu entrego
-</span>
 
 - **Traduzo business em modelos**: entendo o problema antes de qualquer coisa;
 - **Feature Engineering**: sei que o modelo é tão bom quanto os dados que você coloca nele;
@@ -22,20 +20,20 @@ Em 2024 decidi dar um up-grade: mergulhei de cabeça em **Machine Learning, Pyth
 
 ## Toolkit
 
-**Visualização & BI**  
-`Matplotlib` `Seaborn` `Plotly` `Power BI`
-
-**Boas práticas**  
-`Feature Engineering` `Cross-validation` `Hyperparameter Tuning` `MLOps (básico)`
-
 **Linguagens & Core**  
 `Python` `SQL` `Pandas` `NumPy` `Scikit-learn`
+
+**Machine Learning & Deep Learning**  
+`XGBoost` `LightGBM` `TensorFlow` `PyTorch` `SHAP` `LIME`
 
 **Deploy & Cloud**  
 `Docker` `AWS (S3, SageMaker, EC2)`
 
-**Machine Learning & Deep Learning**  
-`XGBoost` `LightGBM` `TensorFlow` `PyTorch` `SHAP` `LIME`
+**Boas práticas**  
+`Feature Engineering` `Cross-validation` `Hyperparameter Tuning` `MLOps (básico)`
+
+**Visualização & BI**  
+`Matplotlib` `Seaborn` `Plotly` `Power BI`
 
 ---
 
@@ -46,14 +44,19 @@ Desde o início da minha carreira, tive experiências e oportunidades para traba
 - **Negociando no mercado financeiro**, onde decisão errada custa caro e análise é tudo
 - **Reestruturando processos** em empresas usando dados operacionais para encontrar gargalos
 
-Agora juntei toda essa bagagem de negócio com o poder dos algoritmos modernos. 
+Toda essa bagagem faz diferença porque eu não chego num projeto perguntando "qual métrica otimizo?". A primeira pergunta pra mim é "qual decisão de negócio isso precisa suportar?" só então eu escolho a métrica.
 
 ---
 
 ## Projetos em destaque
 
-### [Dashboard acompanhamento de pedidos]
+### [Otimização de Irrigação com Deep Learning](https://github.com/BeatrizAndradeDS/otimizacao-irrigacao-deep-learning)
 
+Modelo preditivo para otimizar decisões de irrigação com base em variáveis ambientais — aplicação de deep learning em problema real de sustentabilidade.
+
+**Stack:** `Python` `TensorFlow` `Deep Learning` `Feature Engineering`
+
+---
 
 ### [Day Trade Analytics com IA em AWS](https://github.com/BeatrizAndradeDS/AI-Powered-Day-Trade-Real-Time-Analytics-c-Groq-OpenIA-AWS.git)
 Sistema inteligente que reduz análise de trading de 15 minutos para 5 segundos usando:
