@@ -96,11 +96,8 @@ Sistema inteligente que recomenda filmes similares usando Machine Learning, veto
 <br/>
 
 ---
-<br/>
 
 ### [Outros projetos](https://beatrizandradeds.github.io/portfolio/)
-
-<br/>
 
 ---   
 
