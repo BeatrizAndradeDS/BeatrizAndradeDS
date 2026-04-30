@@ -4,7 +4,7 @@ Analista de Dados | 18 anos com dados
 
 Sempre mexi com dados, mesmo antes de virar "hype". Passei quase duas décadas usando números para tomar decisões, seja planejando produção, negociando no mercado financeiro ou reestruturando processos em empresas. No final, sempre usei os dados para **resolver os problemas de negócio**.
 
-Em 2024 decidi dar um up-grade: mergulhei de cabeça em **Machine Learning, Python e técnicas avançadas de estatística**. Trouxe tudo isso pro meu dia a dia para `resolver problemas reais`.
+Em 2024 decidi dar um up-grade: aprofundei em Python, análise avançada e Machine Learning aplicado. Trouxe tudo isso pro meu dia a dia para `resolver problemas reais`.
 
 <br/>
 
@@ -106,4 +106,4 @@ Sistema inteligente que recomenda filmes similares usando Machine Learning, veto
 - 💼 [LinkedIn](https://www.linkedin.com/in/andrade-beatriz/)
 - 📧 biasandrade@gmail.com
 
-**Dados sem contexto são só números.**
+**Dados sem contexto são só números. Contexto sem dados é só achismo.**
